@@ -17,7 +17,8 @@
 - **Visualization**: ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 - **Deployment**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ---
+  
+
 <!-- Data science GIF -->
 <!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
 
