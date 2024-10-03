@@ -5,10 +5,10 @@
 
 <!-- Coding GIF -->
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />-->
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0D8ABC&lines=Turning+Data+into+Decisions...;Data+Science+%7C+Python+%7C+Machine+Learning)](https://git.io/typing-svg)
 
----
 <!-- AI GIF -->
 
 <img align="center" alt="AI Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
