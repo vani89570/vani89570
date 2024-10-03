@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="180">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
   Hi 👋, I'm Vani!
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="180">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
 </h1>
 
 <h3 align="center">Data Scientist | Passionate about turning data into insights</h3>
@@ -133,7 +133,9 @@
 <table>
   <tr>
     <td>
+      
 - Enhancing skills in **Generative AI** – LLMs, LangChain, and RAG.
+      
 - Attending sessions on **Case Studies** and **Guesstimates**.
     </td>
     <td>
@@ -172,7 +174,7 @@
 - <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50">
 ---
 
- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150"> ## My GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /> My GitHub Stats  
 <table align="center">
   <tr>
     <td>
@@ -199,5 +201,3 @@
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vani89570&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2024" />
