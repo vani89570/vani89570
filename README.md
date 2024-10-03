@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vani!</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="180">
+  Hi 👋, I'm Vani!
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="180">
+</h1>
+
 <h3 align="center">Data Scientist | Passionate about turning data into insights</h3>
 
 <p align="center">I love using data to solve real-world problems and build predictive models.</p>
@@ -18,60 +23,156 @@
 
 ## 🚀 Skills & Technologies
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- **Machine Learning**: ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-008080?style=flat&logo=neural-network&logoColor=white)
-- **Data Analysis**: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-- **Visualization**: ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-- **Web Development**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- **Deployment**: ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-  
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="130"></td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/Neural%20Networks-008080?style=flat&logo=neural-network&logoColor=white" alt="Neural Networks">
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="130"></td>
+  </tr>
+  <tr>
+    <td><strong>Data Analysis</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="130"></td>
+  </tr>
+  <tr>
+    <td><strong>Visualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white" alt="Seaborn">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="130"></td>
+  </tr>
+  <tr>
+    <td><strong>Web Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="130"></td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="130"></td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    </td>
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500"></td>
+  </tr>
+</table>
 
 <!-- Data science GIF -->
 <!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
 
 ---
-
 ## 🎯 Current Projects
+<table>
+  <tr>
+    <td>
 
 - **Bike Sharing Demand Prediction**: Improving model accuracy for regression tasks.
 - **Netflix Recommender System**: Enhancing user engagement through personalized recommendations.
 - **Web Development**: Building my personal website and data science blog.
 
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="200">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📈 Recent Work
+<table>
+  <tr>
+    <td>
 
 - **[Netflix Recommender System](#)**: Increased user engagement by **15%** using K-Means and Agglomerative clustering.
 - **[Coronavirus Sentiment Analysis](#)**: Classified thousands of tweets with **NLP**, offering insights into public sentiment.
 - **[Airbnb Bookings Analysis](#)**: Analyzed booking trends to support business decisions.
 
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="200">
+    </td>
+  </tr>
+</table>
+
 ---
 ## 🌱 Currently Learning
 
+<table>
+  <tr>
+    <td>
 - Enhancing skills in **Generative AI** – LLMs, LangChain, and RAG.
 - Attending sessions on **Case Studies** and **Guesstimates**.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 💡 Fun Facts
 
+<table>
+  <tr>
+    <td>
+
 - 🎨 I’m a big fan of **data visualization** and love finding creative ways to present data.
-- ✨ I also explore **AI-generated art** in my free time.
-- 🌍 When I’m not working, you can find me traveling and **photographing landscapes**.
+- 🌍 I enjoy traveling and **photographing landscapes**.
 - 🧩 I love solving **puzzles and brain teasers**!
 
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="200">
+    </td>
+  </tr>
+</table>
+
 ---
-## 📫 How to Reach Me
+## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> 📫 How to Reach Me 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-bhatt-b8a69a79)
+  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-- [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white)](#)
 
+- [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white)](#)
+- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50">
 ---
 
-## 🔥 My GitHub Stats
+ <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150"> ## My GitHub Stats
 <table align="center">
   <tr>
     <td>
@@ -94,3 +195,9 @@
     </td>
   </tr>
 </table>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vani89570&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2024" />
