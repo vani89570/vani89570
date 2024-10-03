@@ -67,6 +67,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-bhatt-b8a69a79/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 - [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white)](#)
+
 ---
 
 ## 🔥 My GitHub Stats
