@@ -122,7 +122,7 @@
 
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="200">
+      <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="300">
     </td>
   </tr>
 </table>
