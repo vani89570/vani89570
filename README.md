@@ -164,14 +164,33 @@
 </table>
 
 ---
-## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> 📫 How to Reach Me 
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-bhatt-b8a69a79)
-  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 📫 How to Reach Me <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150">
 
-- [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white)](#)
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50">
+<table style="width: auto;">
+  <tr>
+    <td style="width: auto;">
+      <a href="https://www.linkedin.com/in/vani-bhatt-b8a69a79">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td style="width: auto;">
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+    <td style="width: auto;">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white" alt="Blog">
+      </a>
+    </td>
+    <td style="width: auto;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50" alt="Cool GIF">
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /> My GitHub Stats  
@@ -183,7 +202,31 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/anuraghazra/gi## 📫 How to Reach Me <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150">
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: auto;">
+      <a href="https://www.linkedin.com/in/vani-bhatt-b8a69a79">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td style="width: auto;">
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+    <td style="width: auto;">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white" alt="Blog">
+      </a>
+    </td>
+    <td style="width: auto;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50" alt="Cool GIF">
+    </td>
+  </tr>
+</table>
+thub-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vani89570&theme=vision-friendly-dark" alt="Top Languages"/>
       </a>
     </td>
