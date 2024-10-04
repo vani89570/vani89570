@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
     <img src="https://img.shields.io/badge/Statsmodels-FFD700?style=flat" alt="Statsmodels">
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI">
   </td>
   <td><img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="130"></td>
 </tr>
@@ -59,7 +60,6 @@
     <td>
       <img src="https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white" alt="Matplotlib">
       <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=python&logoColor=white" alt="Seaborn">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
       <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
