@@ -169,31 +169,32 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /> My GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vani89570&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" width="600" />
+</div>
+
 <table align="center">
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=vani89570&theme=dark&background=000000" alt="GitHub Streak"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=vani89570&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
       </a>
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vani89570&theme=vision-friendly-dark" alt="Top Languages"/>
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vani89570&theme=vision-friendly-dark" alt="Top Languages" width="300"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vani89570&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vani89570&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vanib_045&theme=dark&background=00000" alt="Wakatime Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vanib_045&theme=dark&background=00000" alt="Wakatime Stats" width="400"/>
     </td>
   </tr>
 </table>
-
----
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vani89570&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
+    
 ---
 <h2 align="center"> 📫 How to Reach Me </h2>
 </table>
