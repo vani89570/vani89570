@@ -88,7 +88,7 @@
     <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="130"></td>
   </tr>
 </table>
-
+<!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"> -->
 <!-- Data science GIF -->
 <!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
 
@@ -134,12 +134,15 @@
   <tr>
     <td>
       
-- Enhancing skills in **Generative AI** – LLMs, LangChain, and RAG.
+- Enhancing skills in **Generative AI** – LLMs, LangChain, and RAG.<br>
+- Attending sessions on **Case Studies** and **Guesstimates**
       
-- Attending sessions on **Case Studies** and **Guesstimates**.
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
     </td>
   </tr>
 </table>
