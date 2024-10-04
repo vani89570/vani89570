@@ -115,10 +115,11 @@
 <table>
   <tr>
     <td>
+      
+- **[Bike Sharing Demand Prediction](https://github.com/vani89570/BIKE_SHARING_DEMAND_PREDICTION_Capstone_Project.git)**: Predicted rental demand with **Linear Regression**, optimizing resource allocation.
+- **[Coronavirus Sentiment Analysis](https://github.com/vani89570/CORONAVIRUS_TWEET_SENTIMENT_ANALYSIS_Capstone_Project.git)**: Classified thousands of tweets with **NLP**, offering insights into public sentiment.
+- **[Adverse Event Analysis](https://github.com/vani89570/A-Case-Study-on-Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry-.git)**: Identified patterns in **medical adverse events**, supporting healthcare decision-making.
 
-- **[Netflix Recommender System](#)**: Increased user engagement by **15%** using K-Means and Agglomerative clustering.
-- **[Coronavirus Sentiment Analysis](#)**: Classified thousands of tweets with **NLP**, offering insights into public sentiment.
-- **[Airbnb Bookings Analysis](#)**: Analyzed booking trends to support business decisions.
 
     </td>
     <td>
