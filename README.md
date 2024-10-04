@@ -172,7 +172,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /> My GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vani89570&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" width="600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vani89570&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" width="700" />
 </div>
 
 <table align="center">
