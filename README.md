@@ -225,7 +225,7 @@
       </a>
     </td>
     <td >
-      <a href="#">
+      <a href="https://github.com/vani89570/">
         <img src="https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white" alt="Blog">
       </a>
     </td>
