@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </td>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="130"></td>
+    <!-- <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="130"></td>-->
   </tr>
   <tr>
     <td><strong>Machine Learning</strong></td>
@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
       <img src="https://img.shields.io/badge/Neural%20Networks-008080?style=flat&logo=neural-network&logoColor=white" alt="Neural Networks">
     </td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="130"></td>
+    <!-- <td><img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="130"></td>-->
   </tr>
 <tr>
   <td><strong>Data Analysis</strong></td>
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
   </td>
-  <td><img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="130"></td>
+  <!-- <td><img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="130"></td>-->
 </tr>
 
   <tr>
@@ -62,7 +62,7 @@
       <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
     </td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="130"></td>
+    <!-- <td><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="130"></td>-->
   </tr>
   <tr>
     <td><strong>Web Development</strong></td>
@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
     </td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="130"></td>
+    <!-- <td><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-<!-- 0889ae726bf7.gif" width="130"></td>-->
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </td>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="130"></td>
+    <!-- <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="130"></td>-->
   </tr>
   <tr>
     <td><strong>Deployment</strong></td>
@@ -88,7 +88,7 @@
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     </td>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="130"></td>
+    <!-- <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="130"></td>-->
   </tr>
 </table>
 <!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"> -->
@@ -205,7 +205,7 @@
   </tr>
     </td>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"> -->
 </div>
     </td>
   </tr>
@@ -235,11 +235,11 @@
   </tr>
 </table>
 
-<br><br><br>
+<!-- br><br><br>
 <p align="center">
     <a href="https://www.animatedimages.org/cat-lines-562.htm">
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0416.gif" 
              alt="animated-line-image-0416" width="100%" height="40"/>
     </a>
-</p>
+</p> -->
 
