@@ -102,7 +102,7 @@
     <td>
       
 - **SQL Product Sales Analysis**: Analyzing sales data to provide actionable insights.
-- **Airbnb Booking Analysis (Excel)**: Creating dashboards and reports for booking trends and customer behavior, resource optimasation.
+- **Airbnb Booking Analysis (Microsoft Excel)**: Creating dashboards and reports for booking trends and customer behavior, resource optimasation.
 - **Fortis Healthcare Case Study (Guesstimates)**: Applying guesstimate techniques to healthcare operations for decision-making improvements.
 
     </td>
