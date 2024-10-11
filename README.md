@@ -100,10 +100,10 @@
 <table>
   <tr>
     <td>
-
-- **Bike Sharing Demand Prediction**: Improving model accuracy for regression tasks.
-- **Netflix Recommender System**: Enhancing user engagement through personalized recommendations.
-- **Web Development**: Building my personal website and data science blog.
+      
+- **SQL Product Sales Analysis**: Analyzing sales data to provide actionable insights.
+- **Adverse Event Effects Analysis (Power BI)**: Visualizing and assessing the impact of adverse events.
+- **Fortis Healthcare Case Study (Guesstimates)**: Applying guesstimate techniques to healthcare operations for decision-making improvements.
 
     </td>
     <td>
