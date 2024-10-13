@@ -232,7 +232,7 @@
     </td>
   <!--  <td >
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50" alt="Cool GIF">
-    </td>-->  -->
+    </td>-->  
   </tr>
 </table>
 
