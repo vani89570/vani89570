@@ -215,7 +215,7 @@
 
 <table style="width: 100%;"  align="center">
   <tr>
-    <td >
+    <td>
       <a href="https://www.linkedin.com/in/vani-bhatt-b8a69a79">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -225,14 +225,19 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
-  <!--    <td >
+     <td >
+      <a href="https://www.youtube.com/@VaniBhatt-un6ml/playlists">
+         <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+     <td >
       <a href="https://github.com/vani89570/">
          <img src="https://img.shields.io/badge/Blog-FFA500?style=flat&logo=blogger&logoColor=white" alt="Blog">
       </a>
     </td>
-  <!--  <td >
+<!--     <td >
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50" alt="Cool GIF">
-    </td>-->  
+    </td>   -->
   </tr>
 </table>
 
