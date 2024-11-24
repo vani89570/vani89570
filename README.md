@@ -154,7 +154,7 @@
 
 ---
 
-## 💡 Fun Facts
+## Fun Facts
 
 <table>
   <tr>
