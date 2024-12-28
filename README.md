@@ -114,7 +114,7 @@
 
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="200">
+
     </td>
   </tr>
 </table>
@@ -133,7 +133,7 @@
 
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="300">
+
     </td>
   </tr>
 </table>
@@ -153,7 +153,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+
     </td>
   </tr>
 </table>
@@ -212,7 +212,7 @@
   </tr>
     </td>
 <div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"> -->
+
 </div>
     </td>
   </tr>
@@ -242,7 +242,7 @@
       </a>
     </td>
 <!--     <td >
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50" alt="Cool GIF">
+
     </td>   -->
   </tr>
 </table>
