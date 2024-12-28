@@ -23,7 +23,7 @@
 <!-- AI GIF -->
 
 <!-- <img align="center" alt="AI Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />-->
-<img  align="center"  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="340" alt="NUX_Octodex">
+
 
 ---
 
