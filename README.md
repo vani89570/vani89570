@@ -182,7 +182,7 @@
 
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="200">
+
     </td>
   </tr>
 </table>
