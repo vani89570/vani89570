@@ -3,13 +3,12 @@
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
-𓆩🖤𓆪 ᬊ᭄꧂  Hi I'm Vani!  ᬊ᭄꧂ 𓆩🖤𓆪
+ᬊ᭄꧂  Hi I'm Vani!  ᬊ᭄꧂ 
 <!--   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
 </h1>
-
 <h3 align="center">Data Scientist | Passionate about turning data into insights</h3>
 
 <p align="center">I love using data to solve real-world problems and build predictive models.</p>
@@ -25,8 +24,10 @@
 
 <!-- <img align="center" alt="AI Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />-->
 
+
 ---
-𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 
+
+‧₊˚‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚
 
 ##  🎓Skills & Technologies  
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> -->
@@ -104,7 +105,7 @@
 <!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
 
 ---
-˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°
+‧₊˚‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚
 
 ## 🎯 Current Projects
 <table>
@@ -213,7 +214,7 @@
     </td>
   </tr>
 </table>
-    
+ ‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐 ‧₊𓏲‧₊˚ 🎐     
 ---
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ 
 
@@ -254,7 +255,7 @@
 <!--     <td >
     </td>   -->
   </tr>
-
+𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 
 </table>
   ༄˖°.🍂.ೃ࿔*:･༄˖°.༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･ 
 
