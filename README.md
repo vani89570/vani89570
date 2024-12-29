@@ -3,7 +3,7 @@
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
-  Hi I'm Vani!
+𓆩🖤𓆪 ᬊ᭄꧂  Hi I'm Vani!  ᬊ᭄꧂ 𓆩🖤𓆪
 <!--   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
@@ -13,9 +13,10 @@
 <h3 align="center">Data Scientist | Passionate about turning data into insights</h3>
 
 <p align="center">I love using data to solve real-world problems and build predictive models.</p>
-
+<p align="center">ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</p>
 <!-- Coding GIF -->
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />-->
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0D8ABC&lines=Turning+Data+into+Decisions...;Data+Science+%7C+Python+%7C+Machine+Learning)](https://git.io/typing-svg)
@@ -24,8 +25,8 @@
 
 <!-- <img align="center" alt="AI Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />-->
 
-
 ---
+𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼𓇼 ⋆.˚ 𓆉 𓆝 
 
 ##  🎓Skills & Technologies  
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> -->
@@ -103,6 +104,8 @@
 <!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
 
 ---
+˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°📷 ༘ ⋆｡˚˙✧˖°
+
 ## 🎯 Current Projects
 <table>
   <tr>
@@ -120,6 +123,7 @@
 </table>
 
 ---
+˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘ 🦕𖦹⋆｡˚˚ ༘
 
 ## 📈 Recent Work
 <table>
@@ -139,6 +143,8 @@
 </table>
 
 ---
+🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋
+
 ## 🌱 Currently Learning
 
 <table>
@@ -159,6 +165,7 @@
 </table>
 
 ---
+°°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:
 
 ## 🎃 Fun Facts
 
@@ -178,6 +185,7 @@
 </table>
 
 ---
+𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧
 
 ## My GitHub Stats  
 
@@ -207,6 +215,8 @@
 </table>
     
 ---
+⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ 
+
 <h2 align="center"> 📫 How to Reach Me </h2>
 </table>
   </tr>
@@ -242,10 +252,11 @@
       </a>
     </td>
 <!--     <td >
-
     </td>   -->
   </tr>
+
 </table>
+  ༄˖°.🍂.ೃ࿔*:･༄˖°.༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･༄˖°.🍂.ೃ࿔*:･ 
 
 <!-- br><br><br>
 <p align="center">
@@ -255,4 +266,3 @@
     </a>
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50" /> 
 </p> -->
-
