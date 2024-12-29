@@ -1,4 +1,5 @@
 <h1 align="center">
+
 <!--   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110">
    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
@@ -12,11 +13,11 @@
 <h3 align="center">Data Scientist | Passionate about turning data into insights</h3>
 
 <p align="center">I love using data to solve real-world problems and build predictive models.</p>
-<p align="center">ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</p>
 <!-- Coding GIF -->
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />-->
 
 ---
+‧₊˚‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0D8ABC&lines=Turning+Data+into+Decisions...;Data+Science+%7C+Python+%7C+Machine+Learning)](https://git.io/typing-svg)
 
@@ -24,10 +25,11 @@
 
 <!-- <img align="center" alt="AI Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />-->
 
-
 ---
 
-‧₊˚‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚
+ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧  ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧
+
+
 
 ##  🎓Skills & Technologies  
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> -->
@@ -105,7 +107,7 @@
 <!-- <img align="left" alt="Data Science" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />-->
 
 ---
-‧₊˚‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ ⛲️ ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚
+   ⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆⋆.°🦋༘⋆
 
 ## 🎯 Current Projects
 <table>
@@ -144,7 +146,7 @@
 </table>
 
 ---
-🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋ 🎧✧˚.🎀༘⋆🩰˚˖𓍢ִ໋
+˚‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 ‧₊𓏲 ๋࣭ ࣪ ˖‧₊˚ 🎐 
 
 ## 🌱 Currently Learning
 
