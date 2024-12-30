@@ -10,7 +10,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
 <!--    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="110"> -->
 </h1>
-🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉🐉
+
 <h3 align="center">Data Scientist | Passionate about turning data into insights</h3>
 
 <p align="center">I love using data to solve real-world problems and build predictive models.</p>
@@ -27,7 +27,7 @@
 <!-- <img align="center" alt="AI Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />-->
 
 ---
-🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩🦩
+
 
 ##  🎓Skills & Technologies  
 <!-- <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="150"> -->
