@@ -105,7 +105,7 @@
 
 ---
 
-## 🎯 Current Projects
+##  Current Projects
 <table>
   <tr>
     <td>
@@ -123,7 +123,7 @@
 
 ---
 
-## 📈 Recent Work
+##  Recent Work
 <table>
   <tr>
     <td>
@@ -164,15 +164,15 @@
 
 ---
 
-## 🎃 Fun Facts
+##  Fun Facts
 
 <table>
   <tr>
     <td>
 
-- 🎨 I’m a big fan of **data visualization** and love finding creative ways to present data.
-- 🌍 I enjoy traveling and **photographing landscapes**.
-- 🧩 I love solving **puzzles and brain teasers**!
+-  I’m a big fan of **data visualization** and love finding creative ways to present data.
+-  I enjoy traveling and **photographing landscapes**.
+-  I love solving **puzzles and brain teasers**!
 
     </td>
     <td>
@@ -211,7 +211,7 @@
 </table>
 
 
-<h2 align="center"> 📫 How to Reach Me </h2>
+<h2 align="center">  How to Reach Me </h2>
 </table>
   </tr>
     </td>
